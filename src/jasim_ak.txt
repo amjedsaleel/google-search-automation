@@ -1,0 +1,10 @@
+Number of posts: 76
+Followers: <selenium.webdriver.remote.webelement.WebElement (session="d134691d6fdbd2e27998f868787239f6", element="19c0a61b-ef84-4377-b44d-a93aecb91954")>.text
+Following: 1,261
+
+Bio: Mohammed Jasim Anikkadan®
+📍 Developer / Freelancer / YouTuber
+🌎 Kerala 🇮🇳 / ex-ʀɪყɑɗɦɪɑn 🇸🇦
+📬 Stay humble. Be kind. Work hard.
+📸 Tag Me #codeband
+youtu.be/Tzw19VZxSm0

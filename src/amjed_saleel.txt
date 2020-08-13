@@ -1,0 +1,6 @@
+Number of posts: 142
+Followers: <selenium.webdriver.remote.webelement.WebElement (session="d134691d6fdbd2e27998f868787239f6", element="708a10c6-642e-4853-9fdb-914b6f2b5068")>.text
+Following: 1,414
+
+Bio: Amjed saleel
+Itz me Amju
